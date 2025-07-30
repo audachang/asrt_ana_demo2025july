@@ -11,7 +11,7 @@ This repository contains an updated modular pipeline for processing, analyzing, 
 ## **Repository Structure**
 
 ```         
-analysisdemo4david/
+asrt_ana_demo2025july/
 │
 ├── scripts/
 │   ├── asrt_ana_functions.R        # Main functions library (data processing, plotting, analysis)
@@ -220,4 +220,3 @@ Raw Data (trial_type, triplet, block_type, epoch)
          Output: triplet frequency by epoch with HIGH/LOW tag
 ```
 
-This logic underpins downstream analyses such as statistical learning (random high vs random low) and sequence learning (random high vs pattern high).
